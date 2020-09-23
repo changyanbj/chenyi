@@ -16,6 +16,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="水果列表" />
+            android:text="水果列表展示" />
     </RelativeLayout>
 </LinearLayout>
